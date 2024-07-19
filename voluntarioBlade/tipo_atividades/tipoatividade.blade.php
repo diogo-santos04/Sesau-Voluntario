@@ -1,0 +1,1 @@
+<livewire:admin.crud.crud-component key="{{Str::random(5)}}"  formType="form" title="Tipo Atividade" model="App\Models\Admin\Sesau\Voluntario\TipoAtividade" form="admin.sesau.voluntario.tipo_atividades.form" />

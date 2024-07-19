@@ -1,0 +1,1 @@
+<livewire:admin.crudtab.crud-component key="{{Str::random(5)}}" modelName="instituicao_id" formType="form" modal="Colaborador" title="Colaborador" model="App\Models\Admin\Sesau\Voluntario\Colaborador" form="admin.sesau.voluntario.colaborador.form" />

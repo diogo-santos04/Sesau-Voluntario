@@ -1,0 +1,1 @@
+<livewire:admin.crud.crud-component key="{{Str::random(5)}}"  formType="form" title="Tipo Regiao Urbana" model="App\Models\Admin\Sesau\Voluntario\TipoRegiaoUrbana" form="admin.sesau.voluntario.tipo_regioes.form" />

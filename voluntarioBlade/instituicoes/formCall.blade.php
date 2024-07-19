@@ -1,0 +1,1 @@
+<livewire:admin.crud.crud-form-component key="{{Str::random(5)}}" modal="{{$modal}}" formType="form"  title="VISUALIZACAO" model="App\Models\Admin\Sesau\Voluntario\Instituicao" form="admin.sesau.voluntario.instituicoes.viewForm" modalId="{{$modalId}}"/>
